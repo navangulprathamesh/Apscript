@@ -12,10 +12,10 @@ Steps for Sentimental Analysis:
 4) Vectorizing text by turning the text into a numerical representation for consumption by your classifier.
 
 Libraries used: 
-nltk
-glob
-csv
-vaderSentiment
-pandas 
-sklearn
+1) nltk
+2) glob
+3) csv
+4) vaderSentiment
+5) pandas 
+6) sklearn
 
