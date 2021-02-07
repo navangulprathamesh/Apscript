@@ -1,0 +1,6 @@
+nltk
+glob
+csv
+vaderSentiment
+pandas
+scikit-learn
